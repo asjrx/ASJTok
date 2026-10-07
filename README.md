@@ -25,26 +25,30 @@ Signing it yourself? `https://source.ahmadrashed.com` in ESign, Feather or KSign
 
 </div>
 
+<p align="center">
+  <img src="screenshots/1-privacy.webp" width="32%" alt="Read it. They won't know">
+  <img src="screenshots/2-save.webp" width="32%" alt="Save any video, no watermark">
+  <img src="screenshots/3-clear.webp" width="32%" alt="Nothing but the video">
+</p>
+<p align="center">
+  <img src="screenshots/4-profile.webp" width="32%" alt="Look around, unseen">
+  <img src="screenshots/5-feed.webp" width="32%" alt="Your feed, your rules">
+  <img src="screenshots/6-icons.webp" width="32%" alt="Make it yours">
+</p>
+
 ---
 
 ## Where it lives
 
 Two ways in: a row inside your profile menu, under ASJ tools, and a row inside TikTok's own Settings.
 
-<p align="center">
-  <img src="screenshots/entry-row.png" width="31%" alt="The row in the profile menu">
-  <img src="screenshots/settings.png" width="31%" alt="The settings screen">
-  <img src="screenshots/menu.png" width="31%" alt="The save menu on a video">
-</p>
-
-The button on the right of any video opens the save menu: **Save video**, **Save audio**, **Save profile picture**, **Copy username**, **Copy introduction**, **Clear display** and **Copy video information**. On a photo post it saves the whole slideshow instead. The same options also sit in TikTok's own long-press sheet, under an ASJTikTok heading.
+The button on the right of any video opens the save menu: **Save video**, **Save audio**, **Save profile picture**, **Copy username**, **Copy introduction**, **Clear display** and **Copy video information**. On a photo post it saves the whole slideshow instead. The same options also sit in TikTok's own long-press sheet, under an ASJTok heading.
 
 ---
 
 ## Features
 
 ### Feed
-<img src="screenshots/feed.png" width="30%" align="right" alt="Feed settings">
 
 - **Content country** — tell TikTok you are in another region
 - **Remove ads**
@@ -53,10 +57,7 @@ The button on the right of any video opens the save menu: **Save video**, **Save
 - **Open on Following**
 - **Hide safety warnings** and **sensitive content warnings**
 
-<br clear="right">
-
 ### Playback
-<img src="screenshots/playback.png" width="30%" align="right" alt="Playback settings">
 
 - **Auto scroll** — move to the next video when one ends
 - **Prevent video loop** — pause at the end instead of replaying
@@ -64,10 +65,7 @@ The button on the right of any video opens the save menu: **Save video**, **Save
 - **Always show progress bar**
 - On the video: **country**, **like count** and **upload date**
 
-<br clear="right">
-
 ### Messages
-<img src="screenshots/messages.png" width="30%" align="right" alt="Message settings">
 
 The three privacy switches are built to work **one way only** — you keep seeing everyone, they stop seeing you.
 
@@ -85,10 +83,7 @@ The three privacy switches are built to work **one way only** — you keep seein
 
 **Save DM GIFs** — GIFs get a save option; photos and videos already use TikTok's own.
 
-<br clear="right">
-
 ### Profile
-<img src="screenshots/profile.png" width="30%" align="right" alt="Profile settings">
 
 **Anonymous viewing** — you can open any profile and no entry is added to their visitor list. The view is never reported, so there is nothing for them to see later either.
 
@@ -104,15 +99,7 @@ The three privacy switches are built to work **one way only** — you keep seein
 
 **Show video count** and **Open links in Safari** — small ones: the number of posts on a profile, and profile links opening in Safari instead of the in-app browser.
 
-<br clear="right">
-
 ### Comments, LIVE and downloads
-<p>
-  <img src="screenshots/comments.png" width="24%" alt="Comment settings">
-  <img src="screenshots/live.png" width="24%" alt="LIVE settings">
-  <img src="screenshots/downloads.png" width="24%" alt="Download settings">
-  <img src="screenshots/stories.png" width="24%" alt="Saved stories">
-</p>
 
 - **View disabled comments**, **longer comments**, **save comment media**
 - **Auto like button** for LIVE — draggable, with a count limit
@@ -170,6 +157,6 @@ Or download the `.ipa` from [Releases](../../releases) and sign it with Sideload
 ## Notes
 
 - arm64 and arm64e
-- Screenshots are from a real install, not mockups
+- The screens in the pictures are from a real install
 
 <div align="center"><sub>by <a href="https://ahmadrashed.com">Ahmad Rashed</a></sub></div>
