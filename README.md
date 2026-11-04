@@ -26,14 +26,16 @@ Signing it yourself? `https://source.ahmadrashed.com` in ESign, Feather or KSign
 </div>
 
 <p align="center">
-  <img src="screenshots/1-privacy.webp" width="32%" alt="Read it. They won't know">
-  <img src="screenshots/2-save.webp" width="32%" alt="Save any video, no watermark">
-  <img src="screenshots/3-clear.webp" width="32%" alt="Nothing but the video">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="screenshots/1-glass.webp"><img src="screenshots/1-glass-light.webp" width="24%" alt="Save it from the glass"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="screenshots/2-clear.webp"><img src="screenshots/2-clear-light.webp" width="24%" alt="Nothing but the video"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="screenshots/3-menu.webp"><img src="screenshots/3-menu-light.webp" width="24%" alt="One menu, all in glass"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="screenshots/4-details.webp"><img src="screenshots/4-details-light.webp" width="24%" alt="Every detail, one tap"></picture>
 </p>
 <p align="center">
-  <img src="screenshots/4-profile.webp" width="32%" alt="Look around, unseen">
-  <img src="screenshots/5-feed.webp" width="32%" alt="Your feed, your rules">
-  <img src="screenshots/6-icons.webp" width="32%" alt="Make it yours">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="screenshots/5-privacy.webp"><img src="screenshots/5-privacy-light.webp" width="24%" alt="Read it. They won't know"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="screenshots/6-feed.webp"><img src="screenshots/6-feed-light.webp" width="24%" alt="Your feed, your rules"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="screenshots/7-profile.webp"><img src="screenshots/7-profile-light.webp" width="24%" alt="Look around, unseen"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="screenshots/8-comments.webp"><img src="screenshots/8-comments-light.webp" width="24%" alt="Every reply, at once"></picture>
 </p>
 
 ---
